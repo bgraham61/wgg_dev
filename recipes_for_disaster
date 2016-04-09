@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Recipes for Disaster</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  </head>
+  <body>
+    <h1>Recipes for Disaster</h1>
+    <p>This cookbook is not your run-of-the-mill collection of delicious recipes. It is a collection of sure-fire steps to instigate the worst possible outcome for anything you attempt to accomplish. If you want a brief summation of my recipes, they all contain the following steps:</p>
+    <ol>
+        <li>Start the project without approval.</li>
+        <li>Dive into your work without a plan.</li>
+        <li>Give your supervisor an estimate of two weeks.</li>
+        <li>Delay complicated decisions as long as possible.</li>
+        <li>Do your own thing.</li>
+        <li>Ignore industry best practices.</li>
+        <li>Blame something or someone else when you fall behind or your project fails.</li>
+    </ol>
+  </body>
+</html>
